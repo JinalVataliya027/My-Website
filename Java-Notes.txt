@@ -1,0 +1,19 @@
+#Java Notes
+
+## Basics
+- Java is an Object-Oriented Programming Language.
+- Platform Independent (Write Once, Run Anywhere).
+
+## OOP Concepts
+- *Encapsulation*: Wrapping data and code together.
+- *Inheritance*: Reusing code by extending classes.
+- *Polymorphism*: Same function behaves differently.
+- *Abstraction*: Hiding internal details.
+
+## Example Code
+```java
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, Java!");
+    }
+}
